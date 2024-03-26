@@ -1,2 +1,0 @@
-login = 'yanapetrova@ozon.ru'
-
